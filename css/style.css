@@ -1,0 +1,86 @@
+html{
+    background-color: rgb(27, 81, 129);
+    margin-left: 5%;
+    margin-right: 5%; 
+    margin-top: 15px; 
+    margin-bottom: 15px;
+}
+body{
+    background-color: rgb(229, 251, 254);
+    padding-top: 25px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 35px;
+    background-color: navy;
+    color:aliceblue;
+    border-style: solid;
+    border-color: black;
+    margin-right: 25px;
+    margin-left: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    color:aliceblue;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 65px;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    background-color: darkcyan;
+    margin-left: 5%;
+    margin-right: 5%;
+    word-spacing: 15px;
+    
+}
+
+
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding-bottom: 35px;
+}
+
+.initials{
+    width: 35%;
+    display: block;
+    margin: auto;
+}
+
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 800px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center
+    padding-bottom: 15px;
+    word-spacing: 5px;
+    text-indent: 50px;
+    padding-bottom: 15px;
+}
+
+footer a{
+    margin-left: 5%;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    padding-top: 35px;
+    padding-bottom: 15px;
+}

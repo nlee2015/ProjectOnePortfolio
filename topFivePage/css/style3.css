@@ -1,0 +1,128 @@
+html{
+    background-color: rgb(27, 81, 129);
+    margin-left: 5%;
+    margin-right: 5%; 
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+}
+
+body{
+    background-color: rgb(229, 251, 254);
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 35px;
+    background-color: navy;
+    color:aliceblue;
+    border-style: solid;
+    border-color: black;
+    margin-right: 25px;
+    margin-left: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+text-align: center;
+}
+h1{
+    text-align: center;
+    color:rgb(214, 240, 240);
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    background-color: darkcyan;
+    margin-left: 5%;
+    margin-right: 5%;
+    word-spacing: 15px;
+    
+}
+
+h2{
+    color: rgb(83, 15, 146);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background-color:rgb(252, 225, 184);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+dl{
+    text-decoration: none;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+dt a{
+    text-decoration: none;
+    color:rgb(178, 29, 93);
+    text-transform: capitalize;
+    font-weight: bold;
+}
+dd{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900px;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    word-spacing: 5px;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 800px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 35px;
+    word-spacing: 5px;
+}
+
+.openSF{
+    display:block;
+    margin: auto;
+    width: 35% ;  
+}
+
+ol {
+    color: navy;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 65px;
+    margin-right: 65px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+ol a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 800px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: navy 
+}
+
+img{
+    width: 20%;
+}
+
+
+
+
